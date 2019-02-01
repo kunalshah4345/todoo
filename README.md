@@ -37,6 +37,4 @@ once sync is done open emulator
 
 Step 8:
 Run: $ react-native run-android
-Message Input
 
-Message Amoli Vora
