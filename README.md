@@ -1,5 +1,7 @@
 
-A simple todo/notes application. It has following features:
+A simple todo/notes application. 
+
+It has following features:
 
 1 Create new note(a note includes title, date and description)
 2 Edit a note
