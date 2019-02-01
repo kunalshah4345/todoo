@@ -34,4 +34,4 @@ open android studio and sync the android folder
 once sync is done open emulator
 Step 8:
 Run: $ react-native run-android
- Finish
+ 
