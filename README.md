@@ -1,7 +1,7 @@
 
-#todoo
 A simple todo/notes application. 
-FEATURES
+
+feautures are as follows:
 1. Create new note(a note includes title, date and description)
 2. Edit a note
 3. Delete a note
