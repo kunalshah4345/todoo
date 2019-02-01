@@ -1,4 +1,5 @@
 
+#todoo
 A simple todo/notes application. 
 
 It has following features:
